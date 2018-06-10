@@ -6,7 +6,7 @@ NumPy
 Pandas
 matplotlib
 scikit-learn
-You will also need to have software installed to run and execute a Jupyter Notebook
+You will also need to have software installed to run and execute a Jupyter Notebook.
 
 
 ## Data
